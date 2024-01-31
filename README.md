@@ -16,13 +16,10 @@
 
 5 : 
 
-![5](https://github.com/saidnidmessaoud/Activity7-Securite-Oauth2-OIDC-JWT-Keycloak/assets/92686626/f90129f1-9197-4519-8e77-4f79f9fd93f
-
-6 : 
 
 ![7](https://github.com/saidnidmessaoud/Activity7-Securite-Oauth2-OIDC-JWT-Keycloak/assets/92686626/306e89af-e8bc-452e-bdf3-b4d0b6fa1255)
 
-7 :
+6 :
 
 ![8](https://github.com/saidnidmessaoud/Activity7-Securite-Oauth2-OIDC-JWT-Keycloak/assets/92686626/66b1822b-a2f8-43ce-8c3f-5e2e76776cf4)
 
